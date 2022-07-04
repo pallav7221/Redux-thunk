@@ -1,0 +1,5 @@
+const LOADING = "LOADING";
+const GET_USERS = "GET_USERS";
+const ERROR = "ERROR";
+
+export {LOADING,GET_USERS,ERROR}
